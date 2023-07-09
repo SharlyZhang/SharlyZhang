@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ucreater.
+- 🌱 I’m currently learning java.
+
 <!--
 **SharlyZhang/SharlyZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
